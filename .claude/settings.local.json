@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Read(/C:\\Users\\Public\\Documents\\dan-dev\\git-pages/**)",
+      "Read(/C:\\Users\\Public\\Documents\\dan-dev\\git-pages/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
